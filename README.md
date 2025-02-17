@@ -2,11 +2,12 @@
 # Overview 
 This Power BI dashboard offers a comprehensive overview of airport performance, including flight delays, time-related metrics, and detailed flight data.  It's designed to help airport managers, airlines, and other stakeholders make data-driven decisions for enhanced efficiency and passenger's satisfaction.
 # Table of Contents 
-1. Overview
-2. Delays and Time Analysis
-3. Detailed Flight Analysis
-4. Data Sources
-5. Photos
+1. [Overview](#overview)
+2. [Delays and Time Analysis](#delays-and-time-analysis)
+3. [Detailed Flight Analysis](#detailed-flight-analysis)
+4. [Data Sources](#data-sources)
+5. [Photos](#photos)
+
 # Overview 
 The Overview page provides a summary of the airport's performance. Key metrics displayed include:
 The KPIs (Key Performance Indicators) listed on the Overview page are:
