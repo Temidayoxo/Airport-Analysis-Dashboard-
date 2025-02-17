@@ -32,5 +32,5 @@ The Detailed Flight Analysis page offers an in-depth look at individual flight d
 
 Airline Comparison: Comparison of different airlines' performance, including on-time rates and average delays.
 Flight Performance: Performance metrics for specific flights, including arrival times, delays, and cancellations.
-
+# photos 
 
