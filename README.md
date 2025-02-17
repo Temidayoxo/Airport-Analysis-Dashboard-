@@ -36,9 +36,12 @@ Flight Performance: Performance metrics for specific flights, including arrival 
 # Photos
 # Overview Page
 ![overview page](https://github.com/user-attachments/assets/becb27de-095c-42e3-8715-cef054bc977c)
-[Delay Analysis Page](#Delay Analysis Page)
+# Delay Analysis Page
 ![delay page](https://github.com/user-attachments/assets/1c1e8947-3abb-4461-88e2-44c64f8198ae)
-[Demographic Analysis Page](#Demographic Analysis Page)
+# Demographic Analysis Page
+![demo page](https://github.com/user-attachments/assets/73b2ac1e-ec8b-4697-93a3-ee1da916ac5d)
+
+
 
 
 
